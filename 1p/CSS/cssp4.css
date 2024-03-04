@@ -1,6 +1,8 @@
 h1{
     color: blue;
     background-color: azure;
+    text-align: center;
+    text-transform: uppercase;
 }
 .areaBonita {
     border: 1px;
@@ -9,4 +11,8 @@ h1{
     color: rgb(103, 112, 121);
     height: 50px;
     width: 250px;
+    font-size: 22px;
+}
+label{
+    padding-right: 10px;
 }
